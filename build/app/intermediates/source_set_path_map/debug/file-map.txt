@@ -1,0 +1,44 @@
+com.example.video_app-jetified-lifecycle-viewmodel-savedstate-2.7.0-0 /Users/nikolajsedov/.gradle/caches/transforms-3/00131ffeb6a1b163417e0ee9e2bbde29/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.example.video_app-lifecycle-runtime-2.7.0-1 /Users/nikolajsedov/.gradle/caches/transforms-3/0cfec34af04bb2c35cbdaf7e2dc763a7/transformed/lifecycle-runtime-2.7.0/res
+com.example.video_app-jetified-media3-exoplayer-1.4.1-2 /Users/nikolajsedov/.gradle/caches/transforms-3/10b8e6b61865978bc4cbf27d5dcb2aa7/transformed/jetified-media3-exoplayer-1.4.1/res
+com.example.video_app-jetified-profileinstaller-1.3.1-3 /Users/nikolajsedov/.gradle/caches/transforms-3/1b63395510afce14e8fdd791e5c2b0dc/transformed/jetified-profileinstaller-1.3.1/res
+com.example.video_app-core-1.13.1-4 /Users/nikolajsedov/.gradle/caches/transforms-3/207a0e5c16c12b1b6358043485d7fbe0/transformed/core-1.13.1/res
+com.example.video_app-jetified-window-java-1.2.0-5 /Users/nikolajsedov/.gradle/caches/transforms-3/278baf5d74f3ae9dbd27d8a710663147/transformed/jetified-window-java-1.2.0/res
+com.example.video_app-jetified-core-1.0.0-6 /Users/nikolajsedov/.gradle/caches/transforms-3/319b521767d311f79c7fa57a09b65d52/transformed/jetified-core-1.0.0/res
+com.example.video_app-jetified-exoplayer-core-2.17.1-7 /Users/nikolajsedov/.gradle/caches/transforms-3/33f6dbf16312fd3f23af26ee0fed5456/transformed/jetified-exoplayer-core-2.17.1/res
+com.example.video_app-jetified-lifecycle-service-2.7.0-8 /Users/nikolajsedov/.gradle/caches/transforms-3/408e1f3bd4fa916b08acfe889b777020/transformed/jetified-lifecycle-service-2.7.0/res
+com.example.video_app-jetified-lifecycle-runtime-ktx-2.7.0-9 /Users/nikolajsedov/.gradle/caches/transforms-3/4a02ca73de8cbce43dd6ca6e6170cc06/transformed/jetified-lifecycle-runtime-ktx-2.7.0/res
+com.example.video_app-recyclerview-1.2.1-10 /Users/nikolajsedov/.gradle/caches/transforms-3/54049bf09344a2c6abb82e3dade28f17/transformed/recyclerview-1.2.1/res
+com.example.video_app-lifecycle-livedata-core-2.7.0-11 /Users/nikolajsedov/.gradle/caches/transforms-3/6e68a97b17f2c7d11b91ea0d27ae4d3e/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.video_app-jetified-core-ktx-1.13.1-12 /Users/nikolajsedov/.gradle/caches/transforms-3/73f001c1e69209dde76edd2b3ae9cf26/transformed/jetified-core-ktx-1.13.1/res
+com.example.video_app-core-runtime-2.2.0-13 /Users/nikolajsedov/.gradle/caches/transforms-3/84e15fcc96e69a41c5ca16688c9f1bc5/transformed/core-runtime-2.2.0/res
+com.example.video_app-jetified-activity-1.8.1-14 /Users/nikolajsedov/.gradle/caches/transforms-3/8b8f6416651a7426a5f32ef0532496cd/transformed/jetified-activity-1.8.1/res
+com.example.video_app-fragment-1.7.1-15 /Users/nikolajsedov/.gradle/caches/transforms-3/93fefeeefbf0d864c97a55a8180850d8/transformed/fragment-1.7.1/res
+com.example.video_app-jetified-annotation-experimental-1.4.0-16 /Users/nikolajsedov/.gradle/caches/transforms-3/947d87fdf145838617de49e832f47533/transformed/jetified-annotation-experimental-1.4.0/res
+com.example.video_app-lifecycle-livedata-2.7.0-17 /Users/nikolajsedov/.gradle/caches/transforms-3/962cf24645425a4c150deab1e1991a50/transformed/lifecycle-livedata-2.7.0/res
+com.example.video_app-jetified-extension-mediasession-2.17.1-18 /Users/nikolajsedov/.gradle/caches/transforms-3/9b582d810937a2dc854682843c5d5489/transformed/jetified-extension-mediasession-2.17.1/res
+com.example.video_app-work-runtime-2.7.0-19 /Users/nikolajsedov/.gradle/caches/transforms-3/a53739ace105a4ba697cc1c372ece597/transformed/work-runtime-2.7.0/res
+com.example.video_app-lifecycle-viewmodel-2.7.0-20 /Users/nikolajsedov/.gradle/caches/transforms-3/bc7fbc21fe5eea0069052d3154d7ac17/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.video_app-jetified-lifecycle-process-2.7.0-21 /Users/nikolajsedov/.gradle/caches/transforms-3/bf2cfe82c856961700eba6304aff424b/transformed/jetified-lifecycle-process-2.7.0/res
+com.example.video_app-jetified-window-1.2.0-22 /Users/nikolajsedov/.gradle/caches/transforms-3/c3bb61264498f28d5867b5cf3d4cda7d/transformed/jetified-window-1.2.0/res
+com.example.video_app-media-1.4.3-23 /Users/nikolajsedov/.gradle/caches/transforms-3/d41f4d3528e73464d62fa6d94fabe084/transformed/media-1.4.3/res
+com.example.video_app-jetified-tracing-1.2.0-24 /Users/nikolajsedov/.gradle/caches/transforms-3/d624e0fcd75598e058619ef236e79af5/transformed/jetified-tracing-1.2.0/res
+com.example.video_app-jetified-startup-runtime-1.1.1-25 /Users/nikolajsedov/.gradle/caches/transforms-3/d69c6a89c04692c039014234a90fca9a/transformed/jetified-startup-runtime-1.1.1/res
+com.example.video_app-jetified-savedstate-1.2.1-26 /Users/nikolajsedov/.gradle/caches/transforms-3/d767df6b8bae31ae25bafdbbdfc3ace0/transformed/jetified-savedstate-1.2.1/res
+com.example.video_app-jetified-exoplayer-ui-2.17.1-27 /Users/nikolajsedov/.gradle/caches/transforms-3/e58c593a4ffb6836ab36390deb7a3fb2/transformed/jetified-exoplayer-ui-2.17.1/res
+com.example.video_app-jetified-lifecycle-livedata-core-ktx-2.7.0-28 /Users/nikolajsedov/.gradle/caches/transforms-3/fb9184b522fb5fc18aaa8b2edfbf329e/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.example.video_app-debug-29 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/android/app/src/debug/res
+com.example.video_app-main-30 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/android/app/src/main/res
+com.example.video_app-pngs-31 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/app/generated/res/pngs/debug
+com.example.video_app-resValues-32 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/app/generated/res/resValues/debug
+com.example.video_app-rs-33 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/app/generated/res/rs/debug
+com.example.video_app-mergeDebugResources-34 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.video_app-mergeDebugResources-35 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.video_app-merged_res-36 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/app/intermediates/merged_res/debug
+com.example.video_app-packaged_res-37 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/better_player/intermediates/packaged_res/debug
+com.example.video_app-packaged_res-38 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/file_picker/intermediates/packaged_res/debug
+com.example.video_app-packaged_res-39 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
+com.example.video_app-packaged_res-40 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/package_info_plus/intermediates/packaged_res/debug
+com.example.video_app-packaged_res-41 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/path_provider_android/intermediates/packaged_res/debug
+com.example.video_app-packaged_res-42 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/video_player_android/intermediates/packaged_res/debug
+com.example.video_app-packaged_res-43 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/wakelock_plus/intermediates/packaged_res/debug
