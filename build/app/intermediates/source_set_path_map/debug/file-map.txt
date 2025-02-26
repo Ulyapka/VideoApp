@@ -27,18 +27,18 @@ com.example.video_app-jetified-startup-runtime-1.1.1-25 /Users/nikolajsedov/.gra
 com.example.video_app-jetified-savedstate-1.2.1-26 /Users/nikolajsedov/.gradle/caches/transforms-3/d767df6b8bae31ae25bafdbbdfc3ace0/transformed/jetified-savedstate-1.2.1/res
 com.example.video_app-jetified-exoplayer-ui-2.17.1-27 /Users/nikolajsedov/.gradle/caches/transforms-3/e58c593a4ffb6836ab36390deb7a3fb2/transformed/jetified-exoplayer-ui-2.17.1/res
 com.example.video_app-jetified-lifecycle-livedata-core-ktx-2.7.0-28 /Users/nikolajsedov/.gradle/caches/transforms-3/fb9184b522fb5fc18aaa8b2edfbf329e/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
-com.example.video_app-debug-29 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/android/app/src/debug/res
-com.example.video_app-main-30 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/android/app/src/main/res
-com.example.video_app-pngs-31 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/app/generated/res/pngs/debug
-com.example.video_app-resValues-32 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/app/generated/res/resValues/debug
-com.example.video_app-rs-33 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/app/generated/res/rs/debug
-com.example.video_app-mergeDebugResources-34 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
-com.example.video_app-mergeDebugResources-35 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
-com.example.video_app-merged_res-36 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/app/intermediates/merged_res/debug
-com.example.video_app-packaged_res-37 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/better_player/intermediates/packaged_res/debug
-com.example.video_app-packaged_res-38 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/file_picker/intermediates/packaged_res/debug
-com.example.video_app-packaged_res-39 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
-com.example.video_app-packaged_res-40 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/package_info_plus/intermediates/packaged_res/debug
-com.example.video_app-packaged_res-41 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/path_provider_android/intermediates/packaged_res/debug
-com.example.video_app-packaged_res-42 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/video_player_android/intermediates/packaged_res/debug
-com.example.video_app-packaged_res-43 /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/wakelock_plus/intermediates/packaged_res/debug
+com.example.video_app-debug-29 /Users/nikolajsedov/Documents/GitHub/video_app/android/app/src/debug/res
+com.example.video_app-main-30 /Users/nikolajsedov/Documents/GitHub/video_app/android/app/src/main/res
+com.example.video_app-pngs-31 /Users/nikolajsedov/Documents/GitHub/video_app/build/app/generated/res/pngs/debug
+com.example.video_app-resValues-32 /Users/nikolajsedov/Documents/GitHub/video_app/build/app/generated/res/resValues/debug
+com.example.video_app-rs-33 /Users/nikolajsedov/Documents/GitHub/video_app/build/app/generated/res/rs/debug
+com.example.video_app-mergeDebugResources-34 /Users/nikolajsedov/Documents/GitHub/video_app/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.video_app-mergeDebugResources-35 /Users/nikolajsedov/Documents/GitHub/video_app/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.video_app-merged_res-36 /Users/nikolajsedov/Documents/GitHub/video_app/build/app/intermediates/merged_res/debug
+com.example.video_app-packaged_res-37 /Users/nikolajsedov/Documents/GitHub/video_app/build/better_player/intermediates/packaged_res/debug
+com.example.video_app-packaged_res-38 /Users/nikolajsedov/Documents/GitHub/video_app/build/file_picker/intermediates/packaged_res/debug
+com.example.video_app-packaged_res-39 /Users/nikolajsedov/Documents/GitHub/video_app/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
+com.example.video_app-packaged_res-40 /Users/nikolajsedov/Documents/GitHub/video_app/build/package_info_plus/intermediates/packaged_res/debug
+com.example.video_app-packaged_res-41 /Users/nikolajsedov/Documents/GitHub/video_app/build/path_provider_android/intermediates/packaged_res/debug
+com.example.video_app-packaged_res-42 /Users/nikolajsedov/Documents/GitHub/video_app/build/video_player_android/intermediates/packaged_res/debug
+com.example.video_app-packaged_res-43 /Users/nikolajsedov/Documents/GitHub/video_app/build/wakelock_plus/intermediates/packaged_res/debug

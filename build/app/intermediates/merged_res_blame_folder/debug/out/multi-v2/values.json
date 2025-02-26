@@ -167,6 +167,25 @@
                     }
                 },
                 {
+                    "source": "/Users/nikolajsedov/Documents/GitHub/video_app/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "600,604",
+                        "startColumns": "4,4",
+                        "startOffsets": "34629,34810",
+                        "endLines": "603,606",
+                        "endColumns": "12,12",
+                        "endOffsets": "34805,34974"
+                    }
+                },
+                {
                     "source": "/Users/nikolajsedov/.gradle/caches/transforms-3/8b8f6416651a7426a5f32ef0532496cd/transformed/jetified-activity-1.8.1/res/values/values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -249,25 +268,6 @@
                         "startOffsets": "19486",
                         "endColumns": "49",
                         "endOffsets": "19531"
-                    }
-                },
-                {
-                    "source": "/Users/nikolajsedov/Downloads/Telegram Desktop/video_app/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "600,604",
-                        "startColumns": "4,4",
-                        "startOffsets": "34629,34810",
-                        "endLines": "603,606",
-                        "endColumns": "12,12",
-                        "endOffsets": "34805,34974"
                     }
                 }
             ]

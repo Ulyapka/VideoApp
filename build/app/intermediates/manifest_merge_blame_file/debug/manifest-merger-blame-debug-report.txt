@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/nikolajsedov/Downloads/Telegram Desktop/video_app/android/app/src/debug/AndroidManifest.xml:6:5-66
-15-->/Users/nikolajsedov/Downloads/Telegram Desktop/video_app/android/app/src/debug/AndroidManifest.xml:6:22-64
+15-->/Users/nikolajsedov/Documents/GitHub/video_app/android/app/src/debug/AndroidManifest.xml:6:5-66
+15-->/Users/nikolajsedov/Documents/GitHub/video_app/android/app/src/debug/AndroidManifest.xml:6:22-64
 16    <!--
 17     Required to query activities that can process text, see:
 18         https://developer.android.com/training/package-visibility?hl=en and
@@ -23,32 +23,32 @@
 21         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
 22    -->
 23    <queries>
-23-->/Users/nikolajsedov/Downloads/Telegram Desktop/video_app/android/app/src/main/AndroidManifest.xml:38:5-43:15
+23-->/Users/nikolajsedov/Documents/GitHub/video_app/android/app/src/main/AndroidManifest.xml:38:5-43:15
 24        <intent>
-24-->/Users/nikolajsedov/Downloads/Telegram Desktop/video_app/android/app/src/main/AndroidManifest.xml:39:9-42:18
+24-->/Users/nikolajsedov/Documents/GitHub/video_app/android/app/src/main/AndroidManifest.xml:39:9-42:18
 25            <action android:name="android.intent.action.PROCESS_TEXT" />
-25-->/Users/nikolajsedov/Downloads/Telegram Desktop/video_app/android/app/src/main/AndroidManifest.xml:40:13-72
-25-->/Users/nikolajsedov/Downloads/Telegram Desktop/video_app/android/app/src/main/AndroidManifest.xml:40:21-70
+25-->/Users/nikolajsedov/Documents/GitHub/video_app/android/app/src/main/AndroidManifest.xml:40:13-72
+25-->/Users/nikolajsedov/Documents/GitHub/video_app/android/app/src/main/AndroidManifest.xml:40:21-70
 26
 27            <data android:mimeType="text/plain" />
-27-->/Users/nikolajsedov/Downloads/Telegram Desktop/video_app/android/app/src/main/AndroidManifest.xml:41:13-50
-27-->/Users/nikolajsedov/Downloads/Telegram Desktop/video_app/android/app/src/main/AndroidManifest.xml:41:19-48
+27-->/Users/nikolajsedov/Documents/GitHub/video_app/android/app/src/main/AndroidManifest.xml:41:13-50
+27-->/Users/nikolajsedov/Documents/GitHub/video_app/android/app/src/main/AndroidManifest.xml:41:19-48
 28        </intent>
 29        <intent>
-29-->[:file_picker] /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-16:18
+29-->[:file_picker] /Users/nikolajsedov/Documents/GitHub/video_app/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-16:18
 30            <action android:name="android.intent.action.GET_CONTENT" />
-30-->[:file_picker] /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-72
-30-->[:file_picker] /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:13:21-69
+30-->[:file_picker] /Users/nikolajsedov/Documents/GitHub/video_app/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-72
+30-->[:file_picker] /Users/nikolajsedov/Documents/GitHub/video_app/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:13:21-69
 31
 32            <data android:mimeType="*/*" />
-32-->/Users/nikolajsedov/Downloads/Telegram Desktop/video_app/android/app/src/main/AndroidManifest.xml:41:13-50
-32-->/Users/nikolajsedov/Downloads/Telegram Desktop/video_app/android/app/src/main/AndroidManifest.xml:41:19-48
+32-->/Users/nikolajsedov/Documents/GitHub/video_app/android/app/src/main/AndroidManifest.xml:41:13-50
+32-->/Users/nikolajsedov/Documents/GitHub/video_app/android/app/src/main/AndroidManifest.xml:41:19-48
 33        </intent>
 34    </queries>
 35
 36    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-36-->[:file_picker] /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-80
-36-->[:file_picker] /Users/nikolajsedov/Downloads/Telegram Desktop/video_app/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-77
+36-->[:file_picker] /Users/nikolajsedov/Documents/GitHub/video_app/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-80
+36-->[:file_picker] /Users/nikolajsedov/Documents/GitHub/video_app/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-77
 37    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 37-->[com.google.android.exoplayer:exoplayer-core:2.17.1] /Users/nikolajsedov/.gradle/caches/transforms-3/33f6dbf16312fd3f23af26ee0fed5456/transformed/jetified-exoplayer-core-2.17.1/AndroidManifest.xml:24:5-79
 37-->[com.google.android.exoplayer:exoplayer-core:2.17.1] /Users/nikolajsedov/.gradle/caches/transforms-3/33f6dbf16312fd3f23af26ee0fed5456/transformed/jetified-exoplayer-core-2.17.1/AndroidManifest.xml:24:22-76
